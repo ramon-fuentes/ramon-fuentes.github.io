@@ -1,10 +1,10 @@
 
-##Book Chapters
+### Book Chapters
 
 [2019	**R. Fuentes**, K. Worden, E.J. Cross, R. Barthorpe, N. Dervilis, L. Bull, T.J. Rogers, P.A. Gardner,
  "Structural Health Monitoring and Damage Detection" _SEM Handbook of Experimental Structural Dynamics_.]()
 
-##Journal Papers
+### Journal Papers
 [2019	L.A. Bull, K. Worden, R. Fuentes, G. Manson, E.J. Cross, N. Dervilis,
  “Outlier Ensembles: Robust Methods for Damage Detection and Unsupervised Feature Extraction from High-Dimensional Data”, _Mechanical Systems and Signal Processing_](https://www.sciencedirect.com/science/article/pii/S0022460X1930197X)
 
