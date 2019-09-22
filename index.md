@@ -2,7 +2,7 @@
 
 ### Positions
 
-2019-present	Research Scientist – Callsign (London, UK)
+**2019-present	Research Scientist – Callsign (London, UK)**
 Currently developing new machine learning methodologies for biometric and behavioural user authentication systems.
 
 2016-2019	Post-Doctoral Research Associate – The University of Sheffield (Sheffield, UK)
