@@ -8,7 +8,7 @@ Currently developing new machine learning methodologies for biometric and behavi
 **2016-2019	Post-Doctoral Research Associate – The University of Sheffield (Sheffield, UK)** \
 Developed novel algorithms for autonomous processing of huge quantities of ultrasonic and machine vision data collected from robotic platforms.  Also developed algorithms for autonomous robotic inspection, using Bayesian optimisation techniques.
 
-**2014-2016	Research Associate – The University of Sheffield with Ricardo ltd and   Kongsberg Maritime (Sheffield, UK)** \
+**2014-2016	Research Associate – The University of Sheffield with Ricardo ltd and Kongsberg Maritime (Sheffield, UK)** \
 Delivered a large project between Ricardo ltd, The University of Sheffield and Kongsberg Maritime, where I developed novel machine learning-based solutions for condition monitoring of wind turbine components using acoustic emission and vibration data. 
 
 **2012-2014	Technologist – Structural Health Monitoring Systems - University of Sheffield and HBM-Prenscia (Sheffield, UK)** \
@@ -20,11 +20,11 @@ Short term project developing signal processing methods for application to opera
 **2010-2011	Applications Engineer - HBM-Prenscia and Leonardo Helicopters (Yeovil, UK)** \
 On-site representative of HBM-Prenscia at Leonardo Helicopters. I was responsible for vibration analysis from recorded flight-test data, qualification of equipment for durability, airframe modal analysis and testing, structural modification analysis and flight test specification.
 
-## Projects
+## [Projects](projects.md)
 
-•	Delivered a 5-day machine learning masterclass (with a focus on Kernel methods), with the UK Acoustics Network (UKAN). Details can be found [here](https://acoustics.ac.uk/early-careers-group/acoustics-network-summer-school-2019/), and the notes are [here](https://ramon-fuentes.github.io/UKAN_Machine_Learning_summer_school/).
+## [Python Notebooks](notebooks.md)
 
-### Publications
+### [Publications](pubs.md)
 
-### Research
+### [Research](research.md)
 
