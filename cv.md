@@ -4,7 +4,7 @@
 at the University of Sheffield. My thesis was titled, 
  ["On Bayesian Networks for Structural Health and Condition Monitoring"](http://etheses.whiterose.ac.uk/19017/1/thesis_master_from_template.pdf) 
 
-2008-2012	BEng. (Hons) in Aerospace Engineering with a Year in Industry (2:1)
+2008-2012	BEng. (Hons) in Aerospace Engineering
 	University of Sheffield
 
 ## Positions
